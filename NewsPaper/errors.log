@@ -1,0 +1,1221 @@
+2022-08-03 12:39:26,781 ERROR test3 C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 12:39:26,782 ERROR test4 C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 12:39:26,782 ERROR test5 C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 12:39:26,782 ERROR test6 C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 12:39:38,644 ERROR test3 C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 12:39:38,644 ERROR test4 C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 12:39:38,644 ERROR test5 C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 12:39:38,644 ERROR test6 C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 12:40:11,521 ERROR test3 C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 12:40:11,522 ERROR test4 C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 12:40:11,522 ERROR test5 C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 12:40:11,522 ERROR test6 C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 12:47:13,827 ERROR test3 C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 12:47:13,827 ERROR test4 C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 12:47:13,827 ERROR test5 C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 12:47:13,827 ERROR test6 C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 14:35:09,639 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 14:35:09,722 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 14:35:09,723 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 14:35:09,724 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:34:45,823 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:34:46,031 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:34:46,031 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:34:46,031 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:34:59,501 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:34:59,501 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:34:59,501 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:34:59,502 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:35:11,060 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:35:11,060 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:35:11,060 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:35:11,060 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:35:11,399 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:35:11,400 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:35:11,400 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:35:11,400 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:37:03,482 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:37:03,482 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:37:03,482 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:37:03,483 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:43:46,979 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:43:47,017 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:43:47,017 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:43:47,017 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:46:11,760 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:46:11,761 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:46:11,761 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:46:11,761 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:46:47,681 ERROR Internal Server Error: /news/create/ C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\utils\log.py (<class 'ValueError'>, ValueError("Field 'id' expected a number but got ''."), <traceback object at 0x000002320CB03480>)
+Traceback (most recent call last):
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\fields\__init__.py", line 1988, in get_prep_value
+    return int(value)
+ValueError: invalid literal for int() with base 10: ''
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\contrib\auth\mixins.py", line 109, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py", line 69, in post
+    post_author=Author.objects.get(pk=request.POST['post_author']),
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 482, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 1071, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 1089, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 1096, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\sql\query.py", line 1502, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\sql\query.py", line 1532, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\sql\query.py", line 1448, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\sql\query.py", line 1273, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\lookups.py", line 27, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\lookups.py", line 85, in get_prep_lookup
+    return self.lhs.output_field.get_prep_value(self.rhs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\fields\__init__.py", line 1990, in get_prep_value
+    raise e.__class__(
+ValueError: Field 'id' expected a number but got ''.
+2022-08-03 16:46:47,688 ERROR "POST /news/create/ HTTP/1.1" 500 147589 C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\servers\basehttp.py None
+2022-08-03 16:48:49,664 ERROR Internal Server Error: /news/create/ C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\utils\log.py (<class 'ValueError'>, ValueError("Field 'id' expected a number but got ''."), <traceback object at 0x0000024A50D71FC0>)
+Traceback (most recent call last):
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\fields\__init__.py", line 1988, in get_prep_value
+    return int(value)
+ValueError: invalid literal for int() with base 10: ''
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\contrib\auth\mixins.py", line 109, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py", line 69, in post
+    post_author=Author.objects.get(pk=request.POST['post_author']),
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 482, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 1071, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 1089, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 1096, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\sql\query.py", line 1502, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\sql\query.py", line 1532, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\sql\query.py", line 1448, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\sql\query.py", line 1273, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\lookups.py", line 27, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\lookups.py", line 85, in get_prep_lookup
+    return self.lhs.output_field.get_prep_value(self.rhs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\fields\__init__.py", line 1990, in get_prep_value
+    raise e.__class__(
+ValueError: Field 'id' expected a number but got ''.
+2022-08-03 16:48:49,672 ERROR "POST /news/create/ HTTP/1.1" 500 147586 C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\servers\basehttp.py None
+2022-08-03 16:48:54,337 ERROR Internal Server Error: /news/create/ C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\utils\log.py (<class 'ValueError'>, ValueError("Field 'id' expected a number but got ''."), <traceback object at 0x0000024A50BC74C0>)
+Traceback (most recent call last):
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\fields\__init__.py", line 1988, in get_prep_value
+    return int(value)
+ValueError: invalid literal for int() with base 10: ''
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\contrib\auth\mixins.py", line 109, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py", line 69, in post
+    post_author=Author.objects.get(pk=request.POST['post_author']),
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 482, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 1071, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 1089, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 1096, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\sql\query.py", line 1502, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\sql\query.py", line 1532, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\sql\query.py", line 1448, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\sql\query.py", line 1273, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\lookups.py", line 27, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\lookups.py", line 85, in get_prep_lookup
+    return self.lhs.output_field.get_prep_value(self.rhs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\fields\__init__.py", line 1990, in get_prep_value
+    raise e.__class__(
+ValueError: Field 'id' expected a number but got ''.
+2022-08-03 16:48:54,339 ERROR "POST /news/create/ HTTP/1.1" 500 147586 C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\servers\basehttp.py None
+2022-08-03 16:49:05,829 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:49:05,829 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:49:05,829 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:49:05,829 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:50:50,625 ERROR Internal Server Error: /news/create/ C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\utils\log.py (<class 'ValueError'>, ValueError("Field 'id' expected a number but got ''."), <traceback object at 0x0000024A50EBE4C0>)
+Traceback (most recent call last):
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\fields\__init__.py", line 1988, in get_prep_value
+    return int(value)
+ValueError: invalid literal for int() with base 10: ''
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\contrib\auth\mixins.py", line 109, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py", line 69, in post
+    post_author=Author.objects.get(pk=request.POST['post_author']),
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 482, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 1071, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 1089, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 1096, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\sql\query.py", line 1502, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\sql\query.py", line 1532, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\sql\query.py", line 1448, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\sql\query.py", line 1273, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\lookups.py", line 27, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\lookups.py", line 85, in get_prep_lookup
+    return self.lhs.output_field.get_prep_value(self.rhs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\fields\__init__.py", line 1990, in get_prep_value
+    raise e.__class__(
+ValueError: Field 'id' expected a number but got ''.
+2022-08-03 16:50:50,628 ERROR "POST /news/create/ HTTP/1.1" 500 147578 C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\servers\basehttp.py None
+2022-08-03 16:51:59,761 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:51:59,761 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:51:59,761 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:51:59,761 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:52:28,589 ERROR Internal Server Error: /news/create/ C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\utils\log.py (<class 'ValueError'>, ValueError("Field 'id' expected a number but got ''."), <traceback object at 0x0000023CFCE55780>)
+Traceback (most recent call last):
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\fields\__init__.py", line 1988, in get_prep_value
+    return int(value)
+ValueError: invalid literal for int() with base 10: ''
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\contrib\auth\mixins.py", line 109, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py", line 69, in post
+    post_author=Author.objects.get(pk=request.POST['post_author']),
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 482, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 1071, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 1089, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 1096, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\sql\query.py", line 1502, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\sql\query.py", line 1532, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\sql\query.py", line 1448, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\sql\query.py", line 1273, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\lookups.py", line 27, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\lookups.py", line 85, in get_prep_lookup
+    return self.lhs.output_field.get_prep_value(self.rhs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\fields\__init__.py", line 1990, in get_prep_value
+    raise e.__class__(
+ValueError: Field 'id' expected a number but got ''.
+2022-08-03 16:52:28,595 ERROR "POST /news/create/ HTTP/1.1" 500 147578 C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\servers\basehttp.py None
+2022-08-03 16:52:35,962 ERROR Internal Server Error: /news/create/ C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\utils\log.py (<class 'ValueError'>, ValueError("Field 'id' expected a number but got ''."), <traceback object at 0x0000023CFCD0E9C0>)
+Traceback (most recent call last):
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\fields\__init__.py", line 1988, in get_prep_value
+    return int(value)
+ValueError: invalid literal for int() with base 10: ''
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\contrib\auth\mixins.py", line 109, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py", line 69, in post
+    post_author=Author.objects.get(pk=request.POST['post_author']),
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 482, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 1071, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 1089, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 1096, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\sql\query.py", line 1502, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\sql\query.py", line 1532, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\sql\query.py", line 1448, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\sql\query.py", line 1273, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\lookups.py", line 27, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\lookups.py", line 85, in get_prep_lookup
+    return self.lhs.output_field.get_prep_value(self.rhs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\fields\__init__.py", line 1990, in get_prep_value
+    raise e.__class__(
+ValueError: Field 'id' expected a number but got ''.
+2022-08-03 16:52:35,964 ERROR "POST /news/create/ HTTP/1.1" 500 147578 C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\servers\basehttp.py None
+2022-08-03 16:53:16,530 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:53:16,530 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:53:16,530 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:53:16,530 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:53:33,481 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:53:33,482 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:53:33,482 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:53:33,482 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:55:44,698 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:55:44,698 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:55:44,698 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:55:44,699 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:55:46,861 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:55:46,861 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:55:46,861 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:55:46,861 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:55:49,019 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:55:49,019 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:55:49,019 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:55:49,019 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:55:49,257 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:55:49,257 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:55:49,258 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:55:49,258 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:55:58,190 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:55:58,190 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:55:58,190 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:55:58,190 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:56:59,460 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:56:59,460 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:56:59,460 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:56:59,460 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:57:16,866 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:57:16,866 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:57:16,866 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:57:16,866 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:57:54,087 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:57:54,087 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:57:54,087 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:57:54,087 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:58:00,085 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:58:00,086 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:58:00,086 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:58:00,086 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:58:03,225 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:58:03,225 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:58:03,225 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:58:03,225 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:58:24,378 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:58:24,378 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:58:24,378 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:58:24,378 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:59:11,710 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:59:11,710 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:59:11,710 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:59:11,710 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:59:26,234 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:59:26,234 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:59:26,234 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 16:59:26,234 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:00:04,855 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:00:04,855 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:00:04,855 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:00:04,855 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:00:05,629 ERROR Internal Server Error: /news/search/ C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\utils\log.py (<class 'NameError'>, NameError("name 'contex' is not defined"), <traceback object at 0x0000022D82971780>)
+Traceback (most recent call last):
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\list.py", line 174, in get
+    context = self.get_context_data()
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py", line 131, in get_context_data
+    contex['filter'] = PostFilter(self.request.GET, queryset=self.get_queryset())
+NameError: name 'contex' is not defined
+2022-08-03 17:00:05,633 ERROR "GET /news/search/ HTTP/1.1" 500 86653 C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\servers\basehttp.py None
+2022-08-03 17:00:17,810 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:00:17,810 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:00:17,810 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:00:17,810 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:00:17,876 ERROR Internal Server Error: /news/search/ C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\utils\log.py (<class 'NameError'>, NameError("name 'contex' is not defined"), <traceback object at 0x0000022D82B52BC0>)
+Traceback (most recent call last):
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\list.py", line 174, in get
+    context = self.get_context_data()
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py", line 131, in get_context_data
+    contex['filter'] = PostFilter(self.request.GET, queryset=self.get_queryset())
+NameError: name 'contex' is not defined
+2022-08-03 17:00:17,878 ERROR "GET /news/search/ HTTP/1.1" 500 86653 C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\servers\basehttp.py None
+2022-08-03 17:00:23,498 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:00:23,498 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:00:23,498 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:00:23,498 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:00:23,557 ERROR Internal Server Error: /news/search/ C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\utils\log.py (<class 'NameError'>, NameError("name 'contex' is not defined"), <traceback object at 0x0000022D8297ADC0>)
+Traceback (most recent call last):
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\list.py", line 174, in get
+    context = self.get_context_data()
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py", line 131, in get_context_data
+    contex['filter'] = PostFilter(self.request.GET, queryset=self.get_queryset())
+NameError: name 'contex' is not defined
+2022-08-03 17:00:23,558 ERROR "GET /news/search/ HTTP/1.1" 500 86653 C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\servers\basehttp.py None
+2022-08-03 17:01:06,110 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:01:06,110 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:01:06,110 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:01:06,110 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:01:06,231 ERROR Internal Server Error: /news/search/ C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\utils\log.py (<class 'NameError'>, NameError("name 'contex' is not defined"), <traceback object at 0x0000022D828F7D40>)
+Traceback (most recent call last):
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\list.py", line 174, in get
+    context = self.get_context_data()
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py", line 131, in get_context_data
+    context['filter'] = PostFilter(self.request.GET, queryset=self.get_queryset())
+NameError: name 'contex' is not defined
+2022-08-03 17:01:06,233 ERROR "GET /news/search/ HTTP/1.1" 500 86655 C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\servers\basehttp.py None
+2022-08-03 17:01:28,144 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:01:28,144 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:01:28,144 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:01:28,145 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:01:53,451 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:01:53,451 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:01:53,451 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:01:53,452 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:01:56,392 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:01:56,392 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:01:56,392 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:01:56,392 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:02:11,924 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:02:11,935 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:02:11,935 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:02:11,935 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:03:08,642 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:03:08,642 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:03:08,642 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:03:08,642 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:03:55,767 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:03:55,767 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:03:55,767 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:03:55,767 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:04:33,655 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:04:33,655 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:04:33,656 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:04:33,656 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:05:29,324 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:05:29,324 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:05:29,324 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:05:29,324 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:05:30,257 ERROR Internal Server Error: /news/110 C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\utils\log.py (<class 'django.db.utils.OperationalError'>, OperationalError('no such column: news_post.pos_rating'), <traceback object at 0x000001354F27D180>)
+Traceback (most recent call last):
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 477, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such column: news_post.pos_rating
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\detail.py", line 108, in get
+    self.object = self.get_object()
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py", line 52, in get_object
+    obj = super().get_object(queryset=self.queryset)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\detail.py", line 53, in get_object
+    obj = queryset.get()
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 492, in get
+    num = len(clone)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 302, in __len__
+    self._fetch_all()
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 1507, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 57, in __iter__
+    results = compiler.execute_sql(
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\sql\compiler.py", line 1361, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 477, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such column: news_post.pos_rating
+2022-08-03 17:05:30,263 ERROR "GET /news/110 HTTP/1.1" 500 154685 C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\servers\basehttp.py None
+2022-08-03 17:05:42,140 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:05:42,140 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:05:42,141 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:05:42,141 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:05:42,236 ERROR Internal Server Error: /news/115 C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\utils\log.py (<class 'django.db.utils.OperationalError'>, OperationalError('no such column: news_post.pos_rating'), <traceback object at 0x000001354F406900>)
+Traceback (most recent call last):
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 477, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such column: news_post.pos_rating
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\detail.py", line 108, in get
+    self.object = self.get_object()
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py", line 52, in get_object
+    obj = super().get_object(queryset=self.queryset)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\detail.py", line 53, in get_object
+    obj = queryset.get()
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 492, in get
+    num = len(clone)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 302, in __len__
+    self._fetch_all()
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 1507, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 57, in __iter__
+    results = compiler.execute_sql(
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\sql\compiler.py", line 1361, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 477, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such column: news_post.pos_rating
+2022-08-03 17:05:42,238 ERROR "GET /news/115 HTTP/1.1" 500 154685 C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\servers\basehttp.py None
+2022-08-03 17:05:48,606 ERROR Internal Server Error: /news/ C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\utils\log.py (<class 'django.db.utils.OperationalError'>, OperationalError('no such column: news_post.pos_rating'), <traceback object at 0x000001354F3A9740>)
+Traceback (most recent call last):
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 477, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such column: news_post.pos_rating
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\backends\django.py", line 62, in render
+    return self.template.render(context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 958, in render_annotated
+    return self.render(context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 958, in render_annotated
+    return self.render(context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 958, in render_annotated
+    return self.render(context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 1059, in render
+    output = self.filter_expression.resolve(context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 739, in resolve
+    new_obj = func(obj, *arg_vals)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\defaultfilters.py", line 611, in length
+    return len(value)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 302, in __len__
+    self._fetch_all()
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 1507, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 57, in __iter__
+    results = compiler.execute_sql(
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\sql\compiler.py", line 1361, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 477, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such column: news_post.pos_rating
+2022-08-03 17:05:48,633 ERROR "GET /news/ HTTP/1.1" 500 217123 C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\servers\basehttp.py None
+2022-08-03 17:06:00,437 ERROR Internal Server Error: /news/ C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\utils\log.py (<class 'django.db.utils.OperationalError'>, OperationalError('no such column: news_post.pos_rating'), <traceback object at 0x000001354F48E8C0>)
+Traceback (most recent call last):
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 477, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such column: news_post.pos_rating
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\backends\django.py", line 62, in render
+    return self.template.render(context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 958, in render_annotated
+    return self.render(context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 958, in render_annotated
+    return self.render(context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 958, in render_annotated
+    return self.render(context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 1059, in render
+    output = self.filter_expression.resolve(context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 739, in resolve
+    new_obj = func(obj, *arg_vals)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\defaultfilters.py", line 611, in length
+    return len(value)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 302, in __len__
+    self._fetch_all()
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 1507, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 57, in __iter__
+    results = compiler.execute_sql(
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\sql\compiler.py", line 1361, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 477, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such column: news_post.pos_rating
+2022-08-03 17:06:00,440 ERROR "GET /news/ HTTP/1.1" 500 217260 C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\servers\basehttp.py None
+2022-08-03 17:06:36,008 ERROR Internal Server Error: /news/ C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\utils\log.py (<class 'django.db.utils.OperationalError'>, OperationalError('no such column: news_post.pos_rating'), <traceback object at 0x000001354F1ECE00>)
+Traceback (most recent call last):
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 477, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such column: news_post.pos_rating
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\backends\django.py", line 62, in render
+    return self.template.render(context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 958, in render_annotated
+    return self.render(context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 958, in render_annotated
+    return self.render(context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 958, in render_annotated
+    return self.render(context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 1059, in render
+    output = self.filter_expression.resolve(context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 739, in resolve
+    new_obj = func(obj, *arg_vals)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\defaultfilters.py", line 611, in length
+    return len(value)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 302, in __len__
+    self._fetch_all()
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 1507, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 57, in __iter__
+    results = compiler.execute_sql(
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\sql\compiler.py", line 1361, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 477, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such column: news_post.pos_rating
+2022-08-03 17:06:36,010 ERROR "GET /news/ HTTP/1.1" 500 217260 C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\servers\basehttp.py None
+2022-08-03 17:06:52,170 ERROR Internal Server Error: /news/ C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\utils\log.py (<class 'django.db.utils.OperationalError'>, OperationalError('no such column: news_post.pos_rating'), <traceback object at 0x000001354F335500>)
+Traceback (most recent call last):
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 477, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such column: news_post.pos_rating
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\backends\django.py", line 62, in render
+    return self.template.render(context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 958, in render_annotated
+    return self.render(context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 958, in render_annotated
+    return self.render(context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 958, in render_annotated
+    return self.render(context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 1059, in render
+    output = self.filter_expression.resolve(context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\base.py", line 739, in resolve
+    new_obj = func(obj, *arg_vals)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\template\defaultfilters.py", line 611, in length
+    return len(value)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 302, in __len__
+    self._fetch_all()
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 1507, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 57, in __iter__
+    results = compiler.execute_sql(
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\sql\compiler.py", line 1361, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 477, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such column: news_post.pos_rating
+2022-08-03 17:06:52,172 ERROR "GET /news/ HTTP/1.1" 500 217123 C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\servers\basehttp.py None
+2022-08-03 17:07:16,727 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:07:16,727 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:07:16,727 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:07:16,727 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:07:22,087 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:07:22,087 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:07:22,087 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:07:22,087 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:07:27,139 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:07:27,140 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:07:27,140 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:07:27,140 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:09:13,919 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:09:13,919 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:09:13,919 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:09:13,919 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:14:10,904 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:14:10,904 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:14:10,904 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:14:10,904 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:14:21,264 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:14:21,264 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:14:21,264 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:14:21,264 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:14:55,076 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:14:55,077 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:14:55,077 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:14:55,077 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:15:06,614 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:15:06,614 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:15:06,614 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:15:06,614 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:15:06,953 ERROR Internal Server Error: /news/79 C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\utils\log.py (<class 'django.db.utils.OperationalError'>, OperationalError('no such table: news_post'), <traceback object at 0x000001F1D507BA80>)
+Traceback (most recent call last):
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 477, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such table: news_post
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\detail.py", line 108, in get
+    self.object = self.get_object()
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py", line 52, in get_object
+    obj = super().get_object(queryset=self.queryset)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\detail.py", line 53, in get_object
+    obj = queryset.get()
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 492, in get
+    num = len(clone)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 302, in __len__
+    self._fetch_all()
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 1507, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 57, in __iter__
+    results = compiler.execute_sql(
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\sql\compiler.py", line 1361, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 477, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such table: news_post
+2022-08-03 17:15:06,967 ERROR "GET /news/79 HTTP/1.1" 500 154684 C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\servers\basehttp.py None
+2022-08-03 17:15:16,783 ERROR Internal Server Error: /news/ C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\utils\log.py (<class 'django.db.utils.OperationalError'>, OperationalError('no such table: news_post'), <traceback object at 0x000001F1D4F44940>)
+Traceback (most recent call last):
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 477, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such table: news_post
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\list.py", line 174, in get
+    context = self.get_context_data()
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py", line 30, in get_context_data
+    context = super().get_context_data(**kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\list.py", line 128, in get_context_data
+    paginator, page, queryset, is_paginated = self.paginate_queryset(
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\list.py", line 73, in paginate_queryset
+    page = paginator.page(page_number)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\paginator.py", line 75, in page
+    number = self.validate_number(number)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\paginator.py", line 53, in validate_number
+    if number > self.num_pages:
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\utils\functional.py", line 49, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\paginator.py", line 102, in num_pages
+    if self.count == 0 and not self.allow_empty_first_page:
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\utils\functional.py", line 49, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\paginator.py", line 96, in count
+    return c()
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 470, in count
+    return self.query.get_count(using=self.db)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\sql\query.py", line 552, in get_count
+    number = obj.get_aggregation(using, ["__count"])["__count"]
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\sql\query.py", line 537, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\sql\compiler.py", line 1361, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 477, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such table: news_post
+2022-08-03 17:15:16,788 ERROR "GET /news/?page=3 HTTP/1.1" 500 177326 C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\servers\basehttp.py None
+2022-08-03 17:15:19,570 ERROR Internal Server Error: /news/ C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\utils\log.py (<class 'django.db.utils.OperationalError'>, OperationalError('no such table: news_post'), <traceback object at 0x000001F1D4FB4140>)
+Traceback (most recent call last):
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 477, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such table: news_post
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\list.py", line 174, in get
+    context = self.get_context_data()
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py", line 30, in get_context_data
+    context = super().get_context_data(**kwargs)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\list.py", line 128, in get_context_data
+    paginator, page, queryset, is_paginated = self.paginate_queryset(
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\views\generic\list.py", line 73, in paginate_queryset
+    page = paginator.page(page_number)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\paginator.py", line 75, in page
+    number = self.validate_number(number)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\paginator.py", line 53, in validate_number
+    if number > self.num_pages:
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\utils\functional.py", line 49, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\paginator.py", line 102, in num_pages
+    if self.count == 0 and not self.allow_empty_first_page:
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\utils\functional.py", line 49, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\paginator.py", line 96, in count
+    return c()
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\query.py", line 470, in count
+    return self.query.get_count(using=self.db)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\sql\query.py", line 552, in get_count
+    number = obj.get_aggregation(using, ["__count"])["__count"]
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\sql\query.py", line 537, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\models\sql\compiler.py", line 1361, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 477, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such table: news_post
+2022-08-03 17:15:19,573 ERROR "GET /news/ HTTP/1.1" 500 176954 C:\Users\Бешенный\PycharmProjects\skillfactory\newsvenv\lib\site-packages\django\core\servers\basehttp.py None
+2022-08-03 17:15:35,051 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:15:35,051 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:15:35,051 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:15:35,051 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:16:38,167 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:16:42,086 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:16:44,161 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:16:44,161 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:16:52,075 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:16:54,320 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:16:56,405 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:16:56,405 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:16:56,481 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:16:58,580 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:16:58,780 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:17:00,606 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:17:00,610 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:17:02,604 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:17:04,674 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:17:04,675 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:17:11,548 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:17:14,510 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:17:16,600 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:17:16,601 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:17:31,719 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:17:33,753 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:17:33,991 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:17:34,237 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:17:35,681 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:17:35,682 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:17:37,551 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:17:39,565 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:17:41,496 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:17:41,497 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:17:43,497 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:17:43,497 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:17:44,231 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:17:46,163 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:17:47,380 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:17:48,669 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:17:48,836 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:17:48,837 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:17:49,987 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:17:50,202 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:17:50,863 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:17:50,907 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:17:51,925 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:17:52,830 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:17:54,900 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:17:56,874 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:17:59,320 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:18:02,049 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:18:02,049 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:18:04,074 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:18:06,150 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:18:06,151 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:18:08,160 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:18:08,160 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:18:10,231 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:18:10,231 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:18:12,279 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:18:12,279 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:18:14,273 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:18:14,352 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:18:25,212 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:18:25,212 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:18:25,212 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:18:25,212 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:18:46,731 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:18:46,731 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:18:46,731 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:18:46,731 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:28:41,616 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:28:41,616 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:28:41,616 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:28:41,616 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:32:48,446 ERROR log-request C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:32:48,454 ERROR log-server C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:32:48,454 ERROR log-template C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
+2022-08-03 17:32:48,454 ERROR log-db C:\Users\Бешенный\PycharmProjects\skillfactory\NewsPaper\news\views.py None
